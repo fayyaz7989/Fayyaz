@@ -1,58 +1,39 @@
-# 👋 Hey there, I'm Fayyaz Khan!
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=180&section=header&text=Hey%20there!%20I'm%20a%20Business%20Analyst%20🚀&fontSize=30&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Universe%20🌌&descAlignY=55&animation=fadeIn" />
 
-🎓 I'm a **Marketing graduate** with a growing passion for **Business Analytics**, **Consulting**.
-
-📊 Currently diving deep into:
-- **SQL** and **Python** for business analytics
-- **Power BI** for dashboards and insights
-- **SPSS** for statistical and market research
-
-💼 My immediate goal:  
-Kickstart my career in **Business Analytics or Consulting** — where I can apply data to solve real business problems and learn how diverse companies operate.
-
-🎯 Long-term vision:
-Build multiple **passive income sources**, support my family financially, and help others grow by creating **educational content** on YouTube and through blogs.
+<!-- Badges -->
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Contact-Email-informational?style=flat-square&logo=gmail&color=blue" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-Learning%20Hub-red?style=flat-square&logo=youtube" /></a>
+</p>
 
 ---
 
-## 🧠 Topics I'm Obsessed With
-- Marketing strategies and consumer psychology
-- Sales, influence, and behavioral techniques
-- Business problem solving & case analysis
-- Self-discipline, emotional resilience & mindset
+### 🧠 Who Am I?
+
+Hi, I'm **Fayyaz Khan**, a curious mind turned into a **Business Analyst** with a passion for solving problems using **data, storytelling**, and **strategy**.
+
+🎓 Recently graduated with a Bachelor's in **Management (Marketing Major)**  
+🔍 Focused on making businesses smarter with **SQL, Excel, Python, Power BI**, and **Tableau**  
+🎯 A lifelong learner with dreams of influencing, educating, and making real impact
 
 ---
 
-## 🛠️ Tools & Tech I'm Exploring
-- SQL, Python, R  
-- Power BI, SPSS, Excel  
-- Business modeling & case studies# 👋 Hey there, I'm Fayyaz Khan!
+### 💼 What I Do
 
-🎓 I'm a final-year **Marketing student** with a strong interest in **Business Analytics**, **Consulting**, and **Mentoring**.
+```yaml
+- 📊 Business Analytics
+  - Data cleaning & storytelling
+  - Market and sales trend analysis
+  - Strategic recommendations
 
-📊 Currently learning:
-- **SQL**, **R**, and **Python** for business analytics
-- **Power BI** for data visualization
-- **SPSS** for research and statistical analysis
+- 🛠️ Tools & Tech:
+  - Languages: Python (basics), SQL
+  - Analytics: Power BI,Tableau,Excel, SPSS
+  - Soft Skills: Communication, Time Management, Problem Solving
 
-💼 My short-term goal:  
-Land a job in **Business Analytics or Consulting** to gain experience across industries and understand how businesses truly operate.
-
-🎯 Long-term vision:
-To build **passive income streams** and give back to my family — while mentoring others in **sales, marketing, life skills, and personal growth** through content like YouTube videos and blogs.
-
----
-
-## 🧠 I Love Learning About
-- **Marketing, Sales, and Consumer Behavior**
-- **Analytics and Problem Solving**
-- **Influencing and Persuasion Techniques**
-- **Personal Development, Mindset, and Consistency Systems**
-
----
-
-## 🛠️ Tools & Technologies I'm Exploring
-- SQL, R, Python
-- Power BI, SPSS
-- Excel (Advanced)
-- Business Case Study Analysis
+- 💡 Interests:
+  - Self-growth & personal discipline
+  - Shadowboxing and training 🥊
+   - Educational content focused on real-world relevance
